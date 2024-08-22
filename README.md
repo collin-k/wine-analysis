@@ -1,6 +1,6 @@
 # Finding Predictive Indicators for Wine Ratings
 
-This analysis examines the correlation between wine rating, price, vintage, type, grape variety, and origin of production.
+This analysis examines the correlation between wine rating and price, vintage, type, grape variety, and origin of production.
 
 Link to written report: [Final Report](https://docs.google.com/document/d/1vlsi-_8a91J8hdwO1TV4BhKhbJR-QMNDKa__CDiBx58/edit?usp=sharing)
 
