@@ -6,7 +6,7 @@ Link to written report: [Final Report](https://docs.google.com/document/d/1vlsi-
 
 # Metadata
 
-This analysis was conducted using a dataset built with Scrapy. Raw data can be accessed on [this github page](https://github.com/activatedgeek/winemag-dataset?tab=readme-ov-file). The dataset consisted of 15 rows and 15,460 rows. The following table provides descriptions for each column, including the column name, data type, and an example.
+This analysis was conducted using a dataset built with Scrapy. Raw data can be accessed on [this github page](https://github.com/activatedgeek/winemag-dataset?tab=readme-ov-file). The dataset consisted of 15 columns and 15,460 rows. The following table provides descriptions for each column, including the column name, data type, and an example.
 
 | **Column Name** | **Data Type**  | **Description**  | **Example**  |
 |---|---|---|---|
